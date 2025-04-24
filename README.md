@@ -43,5 +43,5 @@ The image was also another challenge. I am still not used to how images behave i
 
 ## Author
 
-- Github - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github - [Grey-B](https://github.com/Grey-B)
+- Frontend Mentor - [Grey-B](https://www.frontendmentor.io/profile/Grey-B)
