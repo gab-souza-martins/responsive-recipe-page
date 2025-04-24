@@ -6,7 +6,7 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [What I'm proud of](#what-im-proud-of)
@@ -18,7 +18,7 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
 ![Screenshot of the webpage on desktop.](<design/Screenshot Desktop.png>)
 ![Screenshot of the webpage on mobile.](<design/Screenshot Mobile.png>)
