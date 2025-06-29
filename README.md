@@ -25,8 +25,8 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 
 ### Links
 
-- Solution URL: [Github repository](https://github.com/Grey-B/responsive-recipe-page)
-- Live Site URL: [Github pages](https://grey-b.github.io/responsive-recipe-page/)
+- Solution URL: [Github repository](https://github.com/gab-souza-martins/responsive-recipe-page)
+- Live Site URL: [Github pages](https://gab-souza-martins.github.io/responsive-recipe-page/)
 
 ## My process
 
@@ -43,5 +43,5 @@ The image was also another challenge. I am still not used to how images behave i
 
 ## Author
 
-- Github - [Grey-B](https://github.com/Grey-B)
-- Frontend Mentor - [Grey-B](https://www.frontendmentor.io/profile/Grey-B)
+- Github - [Gabriel de Souza](https://github.com/gab-souza-martins)
+- Frontend Mentor - [Gabriel de Souza](https://www.frontendmentor.io/profile/gab-souza-martins)
