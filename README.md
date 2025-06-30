@@ -5,7 +5,6 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
@@ -13,8 +12,6 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
   - [What I would do differently](#what-i-would-do-differently)
   - [What challenges I faced](#what-challenges-i-faced)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
